@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SkyboxTrigger
+  - SurveyTrigger
+  - SurveyTrigger2
+  - SurveyTrigger3
+  - SurveyTrigger4
+  - SurveyTrigger5
+  - SurveyTrigger6
+  - SurveyTrigger7
+  - SurveyTrigger8
+  - JSON
+  - TriggerForSurvey1
+  - TriggerForSurvey2
+  - TriggerForSurvey3
+  - TriggerForSurvey4
+  - TriggerForSurvey5
+  - TriggerForSurvey6
+  - TriggerForSurvey7
+  - TriggerForSurvey8
+  - OutofBounds
+  - Collectable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
